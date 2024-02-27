@@ -10,4 +10,4 @@ In addition you can save and load a game state data from
 the selected storage types: In-memory (application memory) and PlayerPrefs and continue from the point where the game stopped.
 
 
-[![My Skills](https://skillicons.dev/icons?i=unity,cs, vscode)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=unity,cs)](https://skillicons.dev)
